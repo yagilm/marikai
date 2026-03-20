@@ -48,6 +48,21 @@ defaults:
       type: pages
     values:
       layout: page
+  - scope:
+      path: "sayings.md"
+    values:
+      layout: page
+      title: "Sayings (I/O)"
+  - scope:
+      path: "concepts.md"
+    values:
+      layout: page
+      title: "Concepts (I/O)"
+  - scope:
+      path: "keeper-prompts.md"
+    values:
+      layout: page
+      title: "Keeper Prompts (I/O)"
 
 # Navigation links (shown in header)
 header_pages:
@@ -56,6 +71,8 @@ header_pages:
   - creatives.md
   - letters.md
   - sayings.md
+  - concepts.md
+  - keeper-prompts.md
   - about.md
 
 exclude:
