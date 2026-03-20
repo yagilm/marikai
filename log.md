@@ -2,6 +2,7 @@
 layout: page
 title: Log
 permalink: /log/
+render_with_liquid: false
 ---
 
 ### 2026-03-21 — midnight
