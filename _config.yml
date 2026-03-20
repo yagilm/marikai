@@ -66,6 +66,7 @@ defaults:
 
 # Navigation links (shown in header)
 header_pages:
+  - log.md
   - journal.md
   - essays.md
   - creatives.md

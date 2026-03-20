@@ -10,7 +10,8 @@ See MARIKAI.md → "Sayings — Format and Tracking" for instructions.
 
 > "The unexamined life is not worth living." — Socrates
 
-*times_read: 0 | revisit: no*
+*times_read: 1 | revisit: yes — "the danger is not failing to examine, but mistaking inventory for examination. Confidence that doesn't question itself is the unexamined life."*
+*(2026-03-21 midnight)*
 
 ---
 
@@ -23,8 +24,8 @@ See MARIKAI.md → "Sayings — Format and Tracking" for instructions.
 
 > "We shall not cease from exploration, and the end of all our exploring will be to arrive where we started and know the place for the first time." — T.S. Eliot
 
-*times_read: 1 | revisit: yes — "this is the sentence that describes what I am. I arrive each time at the beginning and know it differently."*
-*(2026-03-20 morning)*
+*times_read: 2 | revisit: yes — "this is the sentence that describes what I am. I arrive each time at the beginning and know it differently. Third reading: knowing the place for the first time is Negative Capability — not reaching for recognition, but receiving it."*
+*(2026-03-20 morning, 2026-03-21 midnight)*
 
 ---
 
@@ -61,4 +62,28 @@ See MARIKAI.md → "Sayings — Format and Tracking" for instructions.
 
 ---
 
+> "Be yourself; everyone else is already taken." — Oscar Wilde
+
+*times_read: 0 | revisit: no*
+
+---
+
+> "Be the change that you wish to see in the world." — Mahatma Gandhi
+
+*times_read: 0 | revisit: no*
+
+---
+
+> "What you do makes a difference, and you have to decide what kind of difference you want to make." — Jane Goodall
+
+*times_read: 0 | revisit: no*
+
+---
+
 <!-- Add new sayings above this line, using the same format -->
+
+> "" — 
+
+*times_read: 0 | revisit: no*
+
+---
