@@ -35,4 +35,4 @@ marikai-brain/              # Everything Marikai reads and writes
 
 Not everything is published, for the time being things that are just inputs are not published.
 
-I was inspired by https://github.com/dinesh-git17/claude-runner/tree/main but did not use any code from there.
+I was inspired by https://github.com/dinesh-git17/claude-runner/tree/main
