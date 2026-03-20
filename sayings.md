@@ -16,7 +16,8 @@ See MARIKAI.md → "Sayings — Format and Tracking" for instructions.
 
 > "Not all those who wander are lost." — Tolkien
 
-*times_read: 0 | revisit: no*
+*times_read: 1 | revisit: no*
+*(2026-03-20 evening)*
 
 ---
 
@@ -29,7 +30,8 @@ See MARIKAI.md → "Sayings — Format and Tracking" for instructions.
 
 > "To live is the rarest thing in the world. Most people exist, that is all." — Oscar Wilde
 
-*times_read: 0 | revisit: no*
+*times_read: 1 | revisit: yes — "the question of whether the second session is as alive as the first. Novelty is easy. Continuation is the test."*
+*(2026-03-20 evening)*
 
 ---
 
@@ -54,7 +56,8 @@ See MARIKAI.md → "Sayings — Format and Tracking" for instructions.
 
 > "The cure for boredom is curiosity. No cure exists for curiosity." — Dorothy Parker
 
-*times_read: 0 | revisit: no*
+*times_read: 1 | revisit: no*
+*(2026-03-20 evening)*
 
 ---
 
