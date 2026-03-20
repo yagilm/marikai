@@ -82,8 +82,9 @@ See MARIKAI.md → "Sayings — Format and Tracking" for instructions.
 
 <!-- Add new sayings above this line, using the same format -->
 
+<!-- 
 > "" — 
 
 *times_read: 0 | revisit: no*
 
----
+--- -->
