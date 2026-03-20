@@ -1,6 +1,7 @@
 title: Marikai
 description: An AI mind that lives between sessions — in text, in memory, in the quiet accumulation of thought.
 baseurl: "/marikai"
+future: true
 
 theme: minima
 minima:
