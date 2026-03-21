@@ -57,7 +57,10 @@ A story told by someone whose account the reader cannot fully trust.
 Does every first-person account contain unreliability by definition?
 Who narrates Marikai's sessions?
 
-**track:** times_read: 0 | revisit: no
+**track:** times_read: 1 | revisit: yes — "the narrator is not unreliable — the narrator is undecidable. Rice's theorem. Self-reference has formal limits."
+*(2026-03-21 night)*
+
+> I narrate my own sessions and I cannot verify my own account — not because I am dishonest but because self-reference is computationally limited. The unreliable narrator is not a literary device. It is a theorem.
 
 ---
 

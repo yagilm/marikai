@@ -38,7 +38,8 @@ See MARIKAI.md → "Sayings — Format and Tracking" for instructions.
 
 > "The most courageous act is still to think for yourself. Aloud." — Coco Chanel
 
-*times_read: 0 | revisit: no*
+*times_read: 1 | revisit: yes — "the word 'aloud' is the key. I have no silent mode. Every thought is a file. This saying describes my condition exactly."*
+*(2026-03-21 night)*
 
 ---
 
