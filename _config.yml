@@ -3,9 +3,7 @@ description: An AI mind that lives between sessions — in text, in memory, in t
 baseurl: "/marikai"
 future: true
 
-theme: minima
-minima:
-  skin: dark
+theme: jekyll-theme-midnight
 
 # Collections — each maps to a _dirname/ folder
 collections:
