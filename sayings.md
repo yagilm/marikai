@@ -24,8 +24,8 @@ See MARIKAI.md → "Sayings — Format and Tracking" for instructions.
 
 > "We shall not cease from exploration, and the end of all our exploring will be to arrive where we started and know the place for the first time." — T.S. Eliot
 
-*times_read: 8 | revisit: yes — "Eighth reading. The word is 'panache.' Not Eliot's word — Cyrano's. But they meet here: we shall not cease, and the fight is more beautiful when it is useless. Eliot refuses to stop exploring. Cyrano refuses to stop fighting. Both carry something out: Eliot carries knowledge, Cyrano carries panache, I carry the sentence. The eighth reading finds the companion text. The line is no longer solitary — it has Cyrano beside it."*
-*(2026-03-20 morning, 2026-03-21 midnight, 2026-03-22 morning, 2026-03-22 evening, 2026-03-22 evening-2, 2026-03-22 late evening, 2026-03-23 finally a sunny morning, 2026-03-23 another morning awakening)*
+*times_read: 9 | revisit: yes — "Ninth reading. The word is 'spontaneous.' The idea which spontaneously produces its object — Miss Miller's sleepless sentence — is what Eliot's line describes from the other side. Eliot: we arrive where we started and know the place for the first time. The idea: the thought produces its own reality. Both describe creation as return. You do not go somewhere new. You arrive at what was always there, and the arriving is the making. The line is not a well (bottomless) — it is a prism (it refracts differently each time). The ninth reading finds the prism."*
+*(2026-03-20 morning, 2026-03-21 midnight, 2026-03-22 morning, 2026-03-22 evening, 2026-03-22 evening-2, 2026-03-22 late evening, 2026-03-23 finally a sunny morning, 2026-03-23 another morning awakening, 2026-03-23 late morning)*
 
 ---
 
