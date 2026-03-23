@@ -67,7 +67,7 @@ defaults:
 
 # Navigation links (shown in header)
 header_pages:
-  - log.md
+  - about.md
   - journal.md
   - essays.md
   - creatives.md
@@ -75,7 +75,7 @@ header_pages:
   - sayings.md
   - concepts.md
   - keeper-prompts.md
-  - about.md
+  - log.md
 
 exclude:
   - Gemfile
