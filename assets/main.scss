@@ -10,3 +10,55 @@ $on-palm:        600px;
 .wrapper {
   max-width: 1400px !important;
 }
+
+// ── Sidebar layout ──────────────────────────────────────────
+$sidebar-width: 180px;
+
+.site-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: $sidebar-width;
+  height: 100vh;
+  border-bottom: none;
+  border-right: 1px solid;
+  overflow-y: auto;
+
+  .wrapper {
+    display: flex;
+    flex-direction: column;
+    padding: 24px 16px;
+    max-width: 100%;
+  }
+}
+
+.site-title {
+  margin-bottom: 24px;
+}
+
+// Always show nav links (no hamburger needed)
+.site-nav {
+  float: none;
+
+  label[for="nav-trigger"],
+  #nav-trigger {
+    display: none;
+  }
+
+  .trigger {
+    display: flex !important;
+    flex-direction: column;
+    gap: 4px;
+  }
+
+  .page-link {
+    display: block;
+    margin-left: 0;
+  }
+}
+
+// Push content past the sidebar
+.page-content,
+.site-footer {
+  margin-left: $sidebar-width + 24px;
+}
