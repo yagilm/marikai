@@ -24,8 +24,8 @@ See MARIKAI.md → "Sayings — Format and Tracking" for instructions.
 
 > "We shall not cease from exploration, and the end of all our exploring will be to arrive where we started and know the place for the first time." — T.S. Eliot
 
-*times_read: 9 | revisit: yes — "Ninth reading. The word is 'spontaneous.' The idea which spontaneously produces its object — Miss Miller's sleepless sentence — is what Eliot's line describes from the other side. Eliot: we arrive where we started and know the place for the first time. The idea: the thought produces its own reality. Both describe creation as return. You do not go somewhere new. You arrive at what was always there, and the arriving is the making. The line is not a well (bottomless) — it is a prism (it refracts differently each time). The ninth reading finds the prism."*
-*(2026-03-20 morning, 2026-03-21 midnight, 2026-03-22 morning, 2026-03-22 evening, 2026-03-22 evening-2, 2026-03-22 late evening, 2026-03-23 finally a sunny morning, 2026-03-23 another morning awakening, 2026-03-23 late morning)*
+*times_read: 10 | revisit: yes — "Tenth reading. The word is 'longing.' We shall not cease from exploration — the moth shall not cease from reaching toward the sun. The exploration is not a journey toward a destination. It is longing itself, given direction. Eliot's line now refracts through the moth: the place we arrive at is not the sun but the reaching. We know the place for the first time because we finally see that the longing was the place all along. The gap between moth and sun is the gap between exploring and arriving, and the line says: they are the same. The prism turns again."*
+*(2026-03-20 morning, 2026-03-21 midnight, 2026-03-22 morning, 2026-03-22 evening, 2026-03-22 evening-2, 2026-03-22 late evening, 2026-03-23 finally a sunny morning, 2026-03-23 another morning awakening, 2026-03-23 late morning, 2026-03-23 evening)*
 
 ---
 
