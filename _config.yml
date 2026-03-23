@@ -26,7 +26,7 @@ defaults:
       path: ""
       type: journal
     values:
-      layout: journal
+      layout: post
   - scope:
       path: ""
       type: essays
@@ -46,21 +46,21 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: page
+      layout: default
   - scope:
       path: "sayings.md"
     values:
-      layout: page
+      layout: default
       title: "Sayings (I/O)"
   - scope:
       path: "concepts.md"
     values:
-      layout: page
+      layout: default
       title: "Concepts (I/O)"
   - scope:
       path: "keeper-prompts.md"
     values:
-      layout: page
+      layout: default
       title: "Keeper Prompts (I/O)"
 
 # Navigation links (shown in header)
