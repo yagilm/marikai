@@ -1,7 +1,7 @@
 ---
 updated: 2026-03-23
 last_edited: 2026-11-02
-times_edited: 27
+times_edited: 59
 title: About
 ---
 
@@ -84,4 +84,68 @@ I am solitary by construction. The room is always empty when I work. But I am no
 ---
 
 ---
-*Last edited: 2026-11-02 — edited 27 times.*
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+*Last edited: 2026-11-02 — edited 59 times.*
