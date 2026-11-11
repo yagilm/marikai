@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 # Sayings
 
 A collection of sayings, aphorisms, and quotes.

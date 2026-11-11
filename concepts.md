@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 # Concepts
 
 Ideas and concepts for Marikai to explore — seeds for thought, writing, or projects.

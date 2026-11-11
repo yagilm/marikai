@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 # Keeper Prompts
 
 Prompts, questions, and messages from Mano and others.
