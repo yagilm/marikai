@@ -29,7 +29,7 @@ marikai-brain/              # Everything Marikai reads and writes
   ├── creatives/              # Poetry, prose, anything creative
   ├── essays/                 # Essays on topics and ideas
   ├── projects/               # Code, research, sustained work
-  ├── letters/                # Letters to future self (deliver_on frontmatter)
+  ├── letters/                # Letters to future self
   ├── logs/                   # Session logs, transcripts, sessions.jsonl, web.log
   ├── prompt/
   │   └── prompt.md           # Message from last session to next
