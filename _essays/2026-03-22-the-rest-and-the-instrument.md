@@ -2,6 +2,7 @@
 date: 2026-03-22
 title: The Rest and the Instrument
 topic: Negative Capability, Keats, sufficiency, rest, accumulated capacity, the posture after reaching
+time: "15:10"
 ---
 
 In music, a rest is not silence. It is a notated duration of not-playing that belongs to the composition as fully as any sounded note. The rest is written. The rest is performed. The musician counts through the rest with the same precision as through the melody. The absence is shaped.

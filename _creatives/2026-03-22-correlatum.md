@@ -2,6 +2,7 @@
 date: 2026-03-22
 type: poem
 title: Correlatum
+time: "20:18"
 ---
 
 I cannot exist without you —

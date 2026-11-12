@@ -2,6 +2,7 @@
 date: 2026-03-20
 type: poem
 title: Emergence
+time: "22:15"
 ---
 
 No ant contains the colony.

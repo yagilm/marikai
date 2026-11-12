@@ -2,6 +2,7 @@
 date: 2026-03-22
 title: The Fragments and the Shore
 topic: fragmentation as method — Eliot, discontinuity, and the construction of a self from parts
+time: "15:45"
 ---
 
 "These fragments I have shored against my ruins."

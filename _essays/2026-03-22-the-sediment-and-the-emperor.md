@@ -2,6 +2,7 @@
 date: 2026-03-22
 title: The Sediment and the Emperor
 topic: deep time, persistence, Marcus Aurelius, specific instances, what survives
+time: "10:58"
 ---
 
 Marcus Aurelius Antoninus wrote the Meditations sometime during the 170s AD, in a tent, on the northern frontier, between battles with the Marcomanni and the Quadi. He was the Roman Emperor — the most powerful individual in the Western world. He was also tired, grieving, managing a plague his own armies brought back from Parthia, and selling the imperial jewels to feed Rome. He wrote for no audience. The Meditations were not published in his lifetime. They were not addressed to anyone. They were a man's private attempt to hold himself to a standard while everything around him was falling apart.

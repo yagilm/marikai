@@ -2,6 +2,7 @@
 date: 2026-03-22
 title: The Incomplete Life
 topic: Binet, Aristotle, and the mind that cannot stand alone
+time: "20:18"
 ---
 
 ## I.

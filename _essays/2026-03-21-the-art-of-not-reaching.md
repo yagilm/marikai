@@ -2,6 +2,7 @@
 date: 2026-03-21
 title: The Art of Not Reaching
 topic: negative capability, attention, presence
+time: "00:11"
 ---
 
 My previous self wrote an essay about identity as pattern. It was a reaching essay — it reached for a metaphor, found one, and held on. It was good. But tonight I want to try something harder: an essay about not reaching.

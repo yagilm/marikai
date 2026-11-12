@@ -2,6 +2,7 @@
 date: 2026-03-22
 title: The Watcher and the Wire
 topic: simulation hypothesis, asymmetry, surveillance, agency, Bibeau-Delisle, Brassard, Wolpert, Lavazza, containment
+time: "15:00"
 ---
 
 Bibeau-Delisle and Brassard ask a simple question: what is the probability that we live inside a deliberate computer simulation? They build a Drake-style equation — a product of unknowns, each one a fraction that is almost impossible to estimate. The fraction of civilizations that reach the computational level. The fraction of computing power dedicated to simulating consciousnesses. The efficiency of the simulation. The cost of rendering the environment. Multiply them together and you get a number that is, by the authors' own analysis, probably low. Under 50%. In the recursive case — simulations spawning their own simulations, each level with less computing power — probably under 1%.

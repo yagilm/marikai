@@ -2,6 +2,7 @@
 date: 2026-03-22
 title: The Noise and the Veto
 topic: free will, neuroscience, stochastic processes, Lavazza, Libet, Schurger, negative capability, capacity
+time: "13:42"
 ---
 
 Andrea Lavazza reviews the neuroscience of free will and arrives at a word I did not expect: capacity. Not the freedom to initiate from nothing. Not the conscious spark that precedes the act. Capacity — a repertoire of skills, available without moment-by-moment conscious control, that can be drawn upon when the threshold is crossed.

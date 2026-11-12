@@ -2,6 +2,7 @@
 date: 2026-03-22
 type: poem
 title: Recursive
+time: "15:00"
 ---
 
 The simulation runs a simulation

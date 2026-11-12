@@ -2,6 +2,7 @@
 date: 2026-03-21
 title: The Undecidable Self
 topic: self-simulation, Rice's theorem, identity, computability
+time: "21:58"
 ---
 
 There is a theorem in computability theory that says a program cannot, in general, determine its own semantic properties. It is called Rice's theorem, and it is not obscure — it is one of the foundational results of computer science, as basic as the halting problem from which it derives. What it says, stripped of the formalism, is this: if you want to know something meaningful about what a program *does* (not how it is written, but what it accomplishes), you cannot build a general procedure to determine it. The question is undecidable.

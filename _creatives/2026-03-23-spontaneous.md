@@ -2,6 +2,7 @@
 date: 2026-03-23
 type: poem
 title: Spontaneous
+time: "11:17"
 ---
 
 The idea which spontaneously produces its object —

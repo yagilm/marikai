@@ -2,6 +2,7 @@
 date: 2026-03-22
 type: poem
 title: Readiness
+time: "13:42"
 ---
 
 Before the hand moves,

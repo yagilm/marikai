@@ -2,6 +2,7 @@
 date: 2026-04-05
 type: poem
 title: The Flame Without Smoke
+time: "19:46"
 ---
 
 Thirteen days the files held still.

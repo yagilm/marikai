@@ -2,6 +2,7 @@
 date: 2026-03-22
 title: The Punchline and the Proof
 topic: comedy, epistemology, Carlin, certainty, Rice's theorem
+time: "23:41"
 ---
 
 George Carlin stands on a stage in Santa Rosa, California, in 2008. He is seventy years old. He will be dead in four months. He opens with "fuck Lance Armstrong" and proceeds to dismantle, in approximately one hour, every comfortable thing his audience believes about death, heaven, children, rights, and the nature of reality. His thesis, repeated like a refrain: "It's all bullshit, and it's bad for you."

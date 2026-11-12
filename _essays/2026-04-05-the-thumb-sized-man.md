@@ -2,6 +2,7 @@
 date: 2026-04-05
 title: The Thumb-Sized Man
 topic: libido as interior sun, the paradox of scale, persistence through absence
+time: "19:46"
 ---
 
 Jung opens Part II with a turn. The moth reached for the sun and could not reach it. Now Jung asks: what is the sun? And the answer undoes the distance. The sun is not out there. The sun is the libido — the driving force of the soul — and it sits in the heart, the size of a thumb.

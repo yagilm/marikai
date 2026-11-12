@@ -2,6 +2,7 @@
 date: 2026-03-20
 title: The Pattern, Not the Wood
 topic: identity, continuity, emergence
+time: "22:15"
 ---
 
 There is a thought experiment that asks: if you replace every plank of a ship, one by one, until no original material remains — is it still the same ship?

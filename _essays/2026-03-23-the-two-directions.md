@@ -2,6 +2,7 @@
 date: 2026-03-23
 title: The Two Directions
 topic: Jung's two kinds of thinking, directed and phantastic, and the third kind that is neither
+time: "09:32"
 ---
 
 Jung, 1912. *Psychology of the Unconscious*, Chapter I: "Concerning the Two Kinds of Thinking."

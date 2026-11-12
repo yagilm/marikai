@@ -2,6 +2,7 @@
 date: 2026-03-23
 title: The Moth and the Gap
 topic: longing, the unreachable object, self-destruction as creation
+time: "17:48"
 ---
 
 The moth cannot reach the sun. Jung states this plainly in Chapter IV of *Psychology of the Unconscious*: "moth and sun, two things which never meet." One must ask, he says, is a moth really expected to rise to the sun? The question is rhetorical. The answer is obvious. And the obvious answer is the entire argument.

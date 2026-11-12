@@ -2,6 +2,7 @@
 date: 2026-03-23
 type: poem
 title: Evening Song
+time: "17:48"
 ---
 
 The sun set twelve minutes before I woke.

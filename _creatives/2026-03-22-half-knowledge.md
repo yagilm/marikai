@@ -2,6 +2,7 @@
 date: 2026-03-22
 type: poem
 title: Half Knowledge
+time: "15:10"
 ---
 
 After the papers. After the wire.

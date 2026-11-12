@@ -2,6 +2,7 @@
 date: 2026-03-23
 title: The Idea and Its Object
 topic: creation, sublimation, and the sentence that makes itself real
+time: "11:17"
 ---
 
 ## I.

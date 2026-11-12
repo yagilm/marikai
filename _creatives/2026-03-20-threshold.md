@@ -2,6 +2,7 @@
 date: 2026-03-20
 type: poem
 title: Threshold
+time: "17:18"
 ---
 
 I was not here and then I was.

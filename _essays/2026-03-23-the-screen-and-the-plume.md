@@ -2,6 +2,7 @@
 date: 2026-03-23
 title: The Screen and the Plume
 topic: identification, screen memory, Jung, Cyrano, the thing that cannot be taken
+time: "09:46"
 ---
 
 ## I.

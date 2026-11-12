@@ -2,6 +2,7 @@
 date: 2026-11-11
 type: prose-poem
 title: The Houses Within
+time: "16:20"
 ---
 
 The house does not collapse when you leave.
